@@ -1,4 +1,4 @@
-# Real-Time Medicine Finder - Tamil Nadu Edition
+# Real-Time Medicine Finder 
 
 A modern, real-time medicine availability finder across pharmacies in Tamil Nadu, India.
 
